@@ -1,1 +1,1 @@
-﻿{"Added":[],"Modified":[{"Id":50101,"Kind":11,"Name":"Events","PackagePath":"/src/Levtech/Codeunits/Events.CodeUnit.al"}],"Removed":[]}
+﻿{"Added":[],"Modified":[{"Id":50004,"Kind":14,"Name":"SalesOrders","PackagePath":"/src/Queries/Que50004.SalesOrders.al"},{"Id":50101,"Kind":11,"Name":"Events","PackagePath":"/src/Levtech/Codeunits/Events.CodeUnit.al"}],"Removed":[]}
